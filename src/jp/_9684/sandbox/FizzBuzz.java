@@ -1,5 +1,6 @@
-import java.io.PrintStream;
+package jp._9684.sandbox;
 
+import java.io.PrintStream;
 
 /**
  * <h2>‚¢‚í‚ä‚éuFizzBuzz–â‘èv‚ğ‰ğ‚¢‚Ä‚İ‚½</h2>
